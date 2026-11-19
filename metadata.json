@@ -1,0 +1,8 @@
+{
+  "name": "SkillUp – Learn Today, Lead Tomorrow",
+  "description": "Affordable, mentor-guided online courses in Python, Java, Full Stack Web Development, and Data Science with career guidance and interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
